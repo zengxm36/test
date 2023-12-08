@@ -5,3 +5,4 @@ for num in nums:
     sum = sum + num
 print(sum)
 print(sum+sum)
+print(sum+sum+sum)
