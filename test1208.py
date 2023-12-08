@@ -6,3 +6,4 @@ for num in nums:
 print(sum)
 print(sum+sum)
 print(sum+sum+sum)
+print('123')
